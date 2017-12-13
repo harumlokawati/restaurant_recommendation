@@ -1,0 +1,8 @@
+(clear)
+(load main.CLP)
+(load facts.CLP)
+(load function.CLP)
+(load rules.CLP)
+;(watch all)
+(reset)					
+(run)
